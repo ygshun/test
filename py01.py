@@ -1,0 +1,2 @@
+def ggg():
+    return ggg
